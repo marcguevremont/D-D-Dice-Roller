@@ -25,7 +25,7 @@ Change the binary to an executable
 ```
 chmod u+x
 ```
-Create a folder and Copy it to an other place 
+Create a folder and Copy the file to an other place 
 ```
 mkdir ~/Documents/d-d-dice-roller
 mv mac-os-64-bit-roll ~/Documents/d-d-dice-roller/roll
