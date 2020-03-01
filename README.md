@@ -24,4 +24,6 @@ nano ~/.bash_profile
 export PATH="~/Documents/d-d-dice-roller:$PATH"
 ```
 
+You can type roll everywhere on terminal to start rollin'
+
 **Enjoy!**
