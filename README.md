@@ -23,7 +23,7 @@ cd ~/Downloads
 ```
 Change the binary to an executable 
 ```
-chmod u+x
+chmod u+x mac-os-64-bit-roll
 ```
 Create a folder and Copy the file to an other place 
 ```
