@@ -30,7 +30,7 @@ Create a folder and Copy the file to an other place
 mkdir ~/Documents/d-d-dice-roller
 mv mac-os-64-bit-roll ~/Documents/d-d-dice-roller/roll
 ```
-Optionally add the program  to you path.
+Optionally add the program to your path.
 Open nano and add the path to your .bash_profile
 ```
 nano ~/.bash_profile 
