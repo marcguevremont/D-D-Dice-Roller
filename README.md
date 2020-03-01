@@ -2,7 +2,8 @@
 Roll like a master
 
 
-** To install on mac **
+**To install on mac**
+
 Download the binary on the release page
 Open your terminal and go to your Downloads folder 
 ```
