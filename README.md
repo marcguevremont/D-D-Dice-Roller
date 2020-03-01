@@ -3,7 +3,6 @@ Roll like a master
 
 
 **To install on mac**
-
 Download the binary on the release page
 Open your terminal and go to your Downloads folder 
 ```
@@ -24,7 +23,10 @@ Add this line to you bash_profile
 nano ~/.bash_profile 
 export PATH="~/Documents/d-d-dice-roller:$PATH"
 ```
-
+Restart the terminal or type
+```
+source ~/.bash_profile
+```
 You can type roll everywhere on terminal to start rollin'
 
 **Enjoy!**
