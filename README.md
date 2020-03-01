@@ -1,6 +1,19 @@
-# D-D-Dice-Roller
-Roll like a master
+# D&D Dice Roller
+Roll like a master in your next Dungeons & Dragons game.
 
+### How to use
+Type roll on the terminal and follow the instructions.
+
+```
+USAGE:
+    roll [FLAGS]
+
+FLAGS:
+    -a, --att        Attack rolls
+    -d, --dmg        Damage rolls
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+```
 
 ### To install on mac
 Download the binary on the release page.
